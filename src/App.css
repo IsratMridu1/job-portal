@@ -1,0 +1,26 @@
+.reg-hed-text-style{
+  color: #1e98b0;
+  text-align: center;
+}
+
+.sbmt-btn-style{
+  background-color: #1e98b0;
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  width: 120px;
+  font-weight: 700;
+  
+}
+
+.sbmt-btn-style:hover{
+  background-color: #1e9b80;
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  width: 120px;
+  font-weight: 700;
+  
+}
